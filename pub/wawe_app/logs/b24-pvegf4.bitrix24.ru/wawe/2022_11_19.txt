@@ -1,0 +1,776 @@
+15:58:10
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 496
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.605896
+            [namelookup_time] => 0.028575
+            [connect_time] => 0.034139
+            [pretransfer_time] => 0.138682
+            [size_upload] => 330
+            [size_download] => 397
+            [speed_download] => 655
+            [speed_upload] => 544
+            [download_content_length] => 397
+            [upload_content_length] => 330
+            [starttransfer_time] => 0.605871
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 46358
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [code] => dyrunVc17loTbEqOQhybtQtN01CvZO
+            [grant_type] => authorization_code
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "FX8N5S9VvRvphdQVjJg2Xmm50wLScz", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "VtoIQ9WviLfk8QzWiDJvujOZa52eWW", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+16:26:08
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 394
+            [request_size] => 298
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.206991
+            [namelookup_time] => 0.012319
+            [connect_time] => 0.017837
+            [pretransfer_time] => 0.04144
+            [size_upload] => 95
+            [size_download] => 207
+            [speed_download] => 1000
+            [speed_upload] => 458
+            [download_content_length] => 207
+            [upload_content_length] => 95
+            [starttransfer_time] => 0.206975
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 50276
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"}}}
+
+)
+
+****************************************************************
+16:26:50
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 394
+            [request_size] => 298
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.600565
+            [namelookup_time] => 0.060653
+            [connect_time] => 0.066223
+            [pretransfer_time] => 0.088576
+            [size_upload] => 95
+            [size_download] => 207
+            [speed_download] => 344
+            [speed_upload] => 158
+            [download_content_length] => 207
+            [upload_content_length] => 95
+            [starttransfer_time] => 0.600548
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 50292
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"}}}
+
+)
+
+****************************************************************
+16:31:07
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 394
+            [request_size] => 298
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.523496
+            [namelookup_time] => 0.028516
+            [connect_time] => 0.034129
+            [pretransfer_time] => 0.055267
+            [size_upload] => 95
+            [size_download] => 207
+            [speed_download] => 395
+            [speed_upload] => 181
+            [download_content_length] => 207
+            [upload_content_length] => 95
+            [starttransfer_time] => 0.52348
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 35582
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"}}}
+
+)
+
+****************************************************************
+16:36:20
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => text/html; charset=utf-8
+            [http_code] => 400
+            [header_size] => 399
+            [request_size] => 322
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.468004
+            [namelookup_time] => 0.028506
+            [connect_time] => 0.033986
+            [pretransfer_time] => 0.05878
+            [size_upload] => 118
+            [size_download] => 138
+            [speed_download] => 294
+            [speed_upload] => 252
+            [download_content_length] => 138
+            [upload_content_length] => 118
+            [starttransfer_time] => 0.467988
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 37084
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Bad Request</pre>
+</body>
+</html>
+
+)
+
+****************************************************************
+16:36:35
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => text/html; charset=utf-8
+            [http_code] => 400
+            [header_size] => 399
+            [request_size] => 322
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.560955
+            [namelookup_time] => 0.060676
+            [connect_time] => 0.066282
+            [pretransfer_time] => 0.088347
+            [size_upload] => 118
+            [size_download] => 138
+            [speed_download] => 246
+            [speed_upload] => 210
+            [download_content_length] => 138
+            [upload_content_length] => 118
+            [starttransfer_time] => 0.56094
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 37096
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Bad Request</pre>
+</body>
+</html>
+
+)
+
+****************************************************************
+16:36:48
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => text/html; charset=utf-8
+            [http_code] => 400
+            [header_size] => 399
+            [request_size] => 322
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.547788
+            [namelookup_time] => 0.060628
+            [connect_time] => 0.066166
+            [pretransfer_time] => 0.088813
+            [size_upload] => 118
+            [size_download] => 138
+            [speed_download] => 251
+            [speed_upload] => 215
+            [download_content_length] => 138
+            [upload_content_length] => 118
+            [starttransfer_time] => 0.547771
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 51914
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Bad Request</pre>
+</body>
+</html>
+
+)
+
+****************************************************************
+16:37:10
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => text/html; charset=utf-8
+            [http_code] => 400
+            [header_size] => 399
+            [request_size] => 322
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.212449
+            [namelookup_time] => 0.012264
+            [connect_time] => 0.017807
+            [pretransfer_time] => 0.038084
+            [size_upload] => 118
+            [size_download] => 138
+            [speed_download] => 649
+            [speed_upload] => 555
+            [download_content_length] => 138
+            [upload_content_length] => 118
+            [starttransfer_time] => 0.212434
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 51960
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Bad Request</pre>
+</body>
+</html>
+
+)
+
+****************************************************************
+16:37:57
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 395
+            [request_size] => 344
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.259992
+            [namelookup_time] => 0.02853
+            [connect_time] => 0.034077
+            [pretransfer_time] => 0.072308
+            [size_upload] => 140
+            [size_download] => 348
+            [speed_download] => 1338
+            [speed_upload] => 538
+            [download_content_length] => 348
+            [upload_content_length] => 140
+            [starttransfer_time] => 0.259976
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 37178
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"},"businesses":{"edges":[{"node":{"id":"QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy","name":"Kala Group Technologies LLC"}}]}}}
+
+)
+
+****************************************************************
+16:38:21
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 395
+            [request_size] => 344
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.522101
+            [namelookup_time] => 0.004191
+            [connect_time] => 0.009681
+            [pretransfer_time] => 0.031962
+            [size_upload] => 140
+            [size_download] => 348
+            [speed_download] => 666
+            [speed_upload] => 268
+            [download_content_length] => 348
+            [upload_content_length] => 140
+            [starttransfer_time] => 0.522084
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 51992
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"},"businesses":{"edges":[{"node":{"id":"QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy","name":"Kala Group Technologies LLC"}}]}}}
+
+)
+
+****************************************************************
+16:40:15
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 395
+            [request_size] => 344
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.496741
+            [namelookup_time] => 0.004179
+            [connect_time] => 0.009737
+            [pretransfer_time] => 0.035496
+            [size_upload] => 140
+            [size_download] => 348
+            [speed_download] => 700
+            [speed_upload] => 281
+            [download_content_length] => 348
+            [upload_content_length] => 140
+            [starttransfer_time] => 0.496712
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 52048
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"},"businesses":{"edges":[{"node":{"id":"QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy","name":"Kala Group Technologies LLC"}}]}}}
+
+)
+
+****************************************************************
+16:45:39
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 395
+            [request_size] => 344
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.516174
+            [namelookup_time] => 0.01234
+            [connect_time] => 0.017897
+            [pretransfer_time] => 0.038325
+            [size_upload] => 140
+            [size_download] => 348
+            [speed_download] => 674
+            [speed_upload] => 271
+            [download_content_length] => 348
+            [upload_content_length] => 140
+            [starttransfer_time] => 0.516159
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 52128
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"},"businesses":{"edges":[{"node":{"id":"QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy","name":"Kala Group Technologies LLC"}}]}}}
+
+)
+
+****************************************************************
+16:46:09
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 395
+            [request_size] => 344
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.304802
+            [namelookup_time] => 0.060468
+            [connect_time] => 0.065947
+            [pretransfer_time] => 0.094457
+            [size_upload] => 140
+            [size_download] => 348
+            [speed_download] => 1141
+            [speed_upload] => 459
+            [download_content_length] => 348
+            [upload_content_length] => 140
+            [starttransfer_time] => 0.304786
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 52160
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"},"businesses":{"edges":[{"node":{"id":"QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy","name":"Kala Group Technologies LLC"}}]}}}
+
+)
+
+****************************************************************
+16:46:23
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 395
+            [request_size] => 344
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.562225
+            [namelookup_time] => 0.028424
+            [connect_time] => 0.033991
+            [pretransfer_time] => 0.055307
+            [size_upload] => 140
+            [size_download] => 348
+            [speed_download] => 618
+            [speed_upload] => 249
+            [download_content_length] => 348
+            [upload_content_length] => 140
+            [starttransfer_time] => 0.562209
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 52180
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"},"businesses":{"edges":[{"node":{"id":"QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy","name":"Kala Group Technologies LLC"}}]}}}
+
+)
+
+****************************************************************
+20:01:21
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 395
+            [request_size] => 344
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.316255
+            [namelookup_time] => 0.060677
+            [connect_time] => 0.066224
+            [pretransfer_time] => 0.089516
+            [size_upload] => 140
+            [size_download] => 348
+            [speed_download] => 1100
+            [speed_upload] => 442
+            [download_content_length] => 348
+            [upload_content_length] => 140
+            [starttransfer_time] => 0.316239
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 41374
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"},"businesses":{"edges":[{"node":{"id":"QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy","name":"Kala Group Technologies LLC"}}]}}}
+
+)
+
+****************************************************************
+20:01:32
+Array
+(
+    [url] => https://gql.waveapps.com/graphql/public
+    [info] => Array
+        (
+            [url] => https://gql.waveapps.com/graphql/public
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 395
+            [request_size] => 344
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.564729
+            [namelookup_time] => 0.028429
+            [connect_time] => 0.033978
+            [pretransfer_time] => 0.060974
+            [size_upload] => 140
+            [size_download] => 348
+            [speed_download] => 616
+            [speed_upload] => 247
+            [download_content_length] => 348
+            [upload_content_length] => 140
+            [starttransfer_time] => 0.564712
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 54834
+        )
+
+    [params] => Array
+        (
+        )
+
+    [result] => {"data":{"user":{"id":"VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=","firstName":"Michael","lastName":"Homer","defaultEmail":"partner@kalagrouptech.com","createdAt":"2022-11-17T22:39:27.000Z"},"businesses":{"edges":[{"node":{"id":"QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy","name":"Kala Group Technologies LLC"}}]}}}
+
+)
+
+****************************************************************

@@ -1,0 +1,2081 @@
+09:46:06
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1210
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.518775
+            [namelookup_time] => 0.012329
+            [connect_time] => 0.048174
+            [pretransfer_time] => 0.205025
+            [size_upload] => 75
+            [size_download] => 507
+            [speed_download] => 977
+            [speed_upload] => 144
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.518746
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 178.132.201.53
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 56754
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => bc2c7b63005f3774005f1ea600000001f0f107cc935f011aaace4c11e81e03ce8ffde2
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669013165.8282
+                    [finish] => 1669013165.9707
+                    [duration] => 0.14241504669189
+                    [processing] => 0.0018348693847656
+                    [date_start] => 2022-11-21T09:46:05+03:00
+                    [date_finish] => 2022-11-21T09:46:05+03:00
+                    [operating_reset_at] => 1669013765
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+09:46:13
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1212
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.575382
+            [namelookup_time] => 0.012262
+            [connect_time] => 0.054095
+            [pretransfer_time] => 0.225319
+            [size_upload] => 75
+            [size_download] => 510
+            [speed_download] => 886
+            [speed_upload] => 130
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.575353
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 95.163.249.170
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 56036
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => c32c7b63005f3774005f1ea600000001f0f107367ed8cd5757ed0c101865332869949f
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669013172.377
+                    [finish] => 1669013172.4986
+                    [duration] => 0.1216151714325
+                    [processing] => 0.0012249946594238
+                    [date_start] => 2022-11-21T09:46:12+03:00
+                    [date_finish] => 2022-11-21T09:46:12+03:00
+                    [operating_reset_at] => 1669013772
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+09:48:26
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1213
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.501695
+            [namelookup_time] => 0.028288
+            [connect_time] => 0.070084
+            [pretransfer_time] => 0.241656
+            [size_upload] => 75
+            [size_download] => 510
+            [speed_download] => 1016
+            [speed_upload] => 149
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.501669
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 95.163.249.170
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 56386
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 492d7b63005f3774005f1ea600000001f0f107fed1aa3b48503a1d461bf1db2b5218b5
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669013305.6951
+                    [finish] => 1669013305.7818
+                    [duration] => 0.086693048477173
+                    [processing] => 0.0015280246734619
+                    [date_start] => 2022-11-21T09:48:25+03:00
+                    [date_finish] => 2022-11-21T09:48:25+03:00
+                    [operating_reset_at] => 1669013905
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+09:50:04
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1216
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.360754
+            [namelookup_time] => 0.012321
+            [connect_time] => 0.050024
+            [pretransfer_time] => 0.221814
+            [size_upload] => 75
+            [size_download] => 510
+            [speed_download] => 1413
+            [speed_upload] => 207
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.360717
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 195.208.185.4
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 40522
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => ab2d7b63005f3774005f1ea600000001f0f1079946084b143933717467d4f33d946e01
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669013404.3981
+                    [finish] => 1669013404.4476
+                    [duration] => 0.04948902130127
+                    [processing] => 0.0026609897613525
+                    [date_start] => 2022-11-21T09:50:04+03:00
+                    [date_finish] => 2022-11-21T09:50:04+03:00
+                    [operating_reset_at] => 1669014004
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+09:51:58
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1216
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.326388
+            [namelookup_time] => 0.02844
+            [connect_time] => 0.065884
+            [pretransfer_time] => 0.226449
+            [size_upload] => 75
+            [size_download] => 512
+            [speed_download] => 1568
+            [speed_upload] => 229
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.326359
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 46.235.53.67
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 44064
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 1d2e7b63005f3774005f1ea600000001f0f107ff2aa1026885c9a36b53098a451e9615
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669013518.4035
+                    [finish] => 1669013518.437
+                    [duration] => 0.033504009246826
+                    [processing] => 0.0009150505065918
+                    [date_start] => 2022-11-21T09:51:58+03:00
+                    [date_finish] => 2022-11-21T09:51:58+03:00
+                    [operating_reset_at] => 1669014118
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+09:55:48
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1215
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.351382
+            [namelookup_time] => 0.028419
+            [connect_time] => 0.066095
+            [pretransfer_time] => 0.23115
+            [size_upload] => 75
+            [size_download] => 510
+            [speed_download] => 1451
+            [speed_upload] => 213
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.351352
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 195.208.185.4
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 46942
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 032f7b63005f3774005f1ea600000001f0f107a7a72af8721fb935f367b0c02f3460bb
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669013748.5817
+                    [finish] => 1669013748.6249
+                    [duration] => 0.043199062347412
+                    [processing] => 0.0012478828430176
+                    [date_start] => 2022-11-21T09:55:48+03:00
+                    [date_finish] => 2022-11-21T09:55:48+03:00
+                    [operating_reset_at] => 1669014348
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+09:59:28
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1215
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.363693
+            [namelookup_time] => 0.012348
+            [connect_time] => 0.049917
+            [pretransfer_time] => 0.20959
+            [size_upload] => 75
+            [size_download] => 508
+            [speed_download] => 1396
+            [speed_upload] => 206
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.363664
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 46.235.53.69
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 51122
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => df2f7b63005f3774005f1ea600000001f0f107b05db237f3fed3d6a97307b7c8d03277
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669013968.1858
+                    [finish] => 1669013968.2419
+                    [duration] => 0.056076049804688
+                    [processing] => 0.0038771629333496
+                    [date_start] => 2022-11-21T09:59:28+03:00
+                    [date_finish] => 2022-11-21T09:59:28+03:00
+                    [operating_reset_at] => 1669014568
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+09:59:38
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1211
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.365436
+            [namelookup_time] => 0.02847
+            [connect_time] => 0.065119
+            [pretransfer_time] => 0.237507
+            [size_upload] => 75
+            [size_download] => 509
+            [speed_download] => 1392
+            [speed_upload] => 205
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.365407
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 178.132.201.52
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 51284
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => e92f7b63005f3774005f1ea600000001f0f10745fa35c8193c768b0a13c64503fe6f59
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669013978.4952
+                    [finish] => 1669013978.5345
+                    [duration] => 0.039361000061035
+                    [processing] => 0.0010669231414795
+                    [date_start] => 2022-11-21T09:59:38+03:00
+                    [date_finish] => 2022-11-21T09:59:38+03:00
+                    [operating_reset_at] => 1669014578
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:00:08
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1216
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.380928
+            [namelookup_time] => 0.012337
+            [connect_time] => 0.051087
+            [pretransfer_time] => 0.236326
+            [size_upload] => 75
+            [size_download] => 508
+            [speed_download] => 1333
+            [speed_upload] => 196
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.380891
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 46.235.53.67
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 54652
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 07307b63005f3774005f1ea600000001f0f107efd158b24d14cf3da302e57d372db686
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014007.9351
+                    [finish] => 1669014007.9904
+                    [duration] => 0.055300951004028
+                    [processing] => 0.0012550354003906
+                    [date_start] => 2022-11-21T10:00:07+03:00
+                    [date_finish] => 2022-11-21T10:00:07+03:00
+                    [operating_reset_at] => 1669014607
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:00:13
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1216
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.365139
+            [namelookup_time] => 0.004154
+            [connect_time] => 0.041946
+            [pretransfer_time] => 0.20767
+            [size_upload] => 75
+            [size_download] => 510
+            [speed_download] => 1396
+            [speed_upload] => 205
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.365111
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 195.208.185.4
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 53796
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 0b307b63005f3774005f1ea600000001f0f10743fa090919ae3c435312e57fac200713
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014013.1421
+                    [finish] => 1669014013.2236
+                    [duration] => 0.081480026245117
+                    [processing] => 0.00097990036010742
+                    [date_start] => 2022-11-21T10:00:13+03:00
+                    [date_finish] => 2022-11-21T10:00:13+03:00
+                    [operating_reset_at] => 1669014613
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:04:00
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1215
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.358286
+            [namelookup_time] => 0.01235
+            [connect_time] => 0.049887
+            [pretransfer_time] => 0.213252
+            [size_upload] => 75
+            [size_download] => 509
+            [speed_download] => 1420
+            [speed_upload] => 209
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.358262
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 46.235.53.69
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 33302
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => ee307b63005f3774005f1ea600000001f0f1070a8f3009ed235739b152fda4da1e5ed1
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014239.7597
+                    [finish] => 1669014239.8112
+                    [duration] => 0.051522016525269
+                    [processing] => 0.0029940605163574
+                    [date_start] => 2022-11-21T10:03:59+03:00
+                    [date_finish] => 2022-11-21T10:03:59+03:00
+                    [operating_reset_at] => 1669014839
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:04:34
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1212
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.364589
+            [namelookup_time] => 0.012286
+            [connect_time] => 0.054294
+            [pretransfer_time] => 0.225784
+            [size_upload] => 75
+            [size_download] => 511
+            [speed_download] => 1401
+            [speed_upload] => 205
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.364564
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 95.163.249.170
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 53980
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 11317b63005f3774005f1ea600000001f0f10756cc286a804f6dddb890ea2edd81abe9
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014274.285
+                    [finish] => 1669014274.3312
+                    [duration] => 0.046187877655029
+                    [processing] => 0.0025479793548584
+                    [date_start] => 2022-11-21T10:04:34+03:00
+                    [date_finish] => 2022-11-21T10:04:34+03:00
+                    [operating_reset_at] => 1669014874
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:13:43
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1212
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.362355
+            [namelookup_time] => 0.012266
+            [connect_time] => 0.053978
+            [pretransfer_time] => 0.238408
+            [size_upload] => 75
+            [size_download] => 510
+            [speed_download] => 1407
+            [speed_upload] => 206
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.362327
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 89.208.228.119
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 50688
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 37337b63005f3774005f1ea600000001f0f10727da879187dca0c0e570ab1896a3d922
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014823.738
+                    [finish] => 1669014823.7804
+                    [duration] => 0.042348861694336
+                    [processing] => 0.0017969608306885
+                    [date_start] => 2022-11-21T10:13:43+03:00
+                    [date_finish] => 2022-11-21T10:13:43+03:00
+                    [operating_reset_at] => 1669015423
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:13:47
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1215
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.308387
+            [namelookup_time] => 0.012316
+            [connect_time] => 0.049684
+            [pretransfer_time] => 0.21128
+            [size_upload] => 75
+            [size_download] => 510
+            [speed_download] => 1653
+            [speed_upload] => 243
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.308357
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 46.235.53.69
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 45362
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 3a337b63005f3774005f1ea600000001f0f1072e2914a7bf6d9d694f48f68ffc442360
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014827.0637
+                    [finish] => 1669014827.0955
+                    [duration] => 0.03186297416687
+                    [processing] => 0.0009009838104248
+                    [date_start] => 2022-11-21T10:13:47+03:00
+                    [date_finish] => 2022-11-21T10:13:47+03:00
+                    [operating_reset_at] => 1669015427
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:14:09
+Array
+(
+    [url] => https://oauth.bitrix.info/oauth/token/
+    [info] => Array
+        (
+            [url] => https://oauth.bitrix.info/oauth/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 417
+            [request_size] => 390
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.138506
+            [namelookup_time] => 0.004105
+            [connect_time] => 0.032074
+            [pretransfer_time] => 0.093926
+            [size_upload] => 214
+            [size_download] => 449
+            [speed_download] => 3241
+            [speed_upload] => 1545
+            [download_content_length] => -1
+            [upload_content_length] => 214
+            [starttransfer_time] => 0.138479
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 18.201.1.1
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 34762
+        )
+
+    [params] => Array
+        (
+            [this_auth] => Y
+            [params] => Array
+                (
+                    [client_id] => local.63764b93110388.83138129
+                    [grant_type] => refresh_token
+                    [client_secret] => 7139dtMPtYV8dxi1ODZRqnm5EKLDxOqPMo81DygN9fFN22W4Fs
+                    [refresh_token] => 575da063005f3774005f1ea600000001f0f1070ceb61ce2831b8fccd82ae17516bb9ec
+                )
+
+        )
+
+    [result] => Array
+        (
+            [access_token] => 51337b63005f3774005f1ea600000001f0f107ca886793991177df3f3162730ea0bab9
+            [expires] => 1669018449
+            [expires_in] => 3600
+            [scope] => app
+            [domain] => oauth.bitrix.info
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-pvegf4.bitrix24.ru/rest/
+            [member_id] => d2159694da27e9862a852be8a66c80bd
+            [user_id] => 1
+            [refresh_token] => 41b2a263005f3774005f1ea600000001f0f107bd2f4f4bd44d891c5fe4cc21410830a1
+        )
+
+)
+
+****************************************************************
+10:14:10
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1211
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.412179
+            [namelookup_time] => 0.028462
+            [connect_time] => 0.064818
+            [pretransfer_time] => 0.103856
+            [size_upload] => 75
+            [size_download] => 511
+            [speed_download] => 1239
+            [speed_upload] => 181
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.412162
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 178.132.201.53
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 37778
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 51337b63005f3774005f1ea600000001f0f107ca886793991177df3f3162730ea0bab9
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014850.1647
+                    [finish] => 1669014850.3176
+                    [duration] => 0.15289998054504
+                    [processing] => 0.00094199180603027
+                    [date_start] => 2022-11-21T10:14:10+03:00
+                    [date_finish] => 2022-11-21T10:14:10+03:00
+                    [operating_reset_at] => 1669015450
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:14:11
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1211
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.271629
+            [namelookup_time] => 0.028475
+            [connect_time] => 0.064395
+            [pretransfer_time] => 0.149117
+            [size_upload] => 75
+            [size_download] => 511
+            [speed_download] => 1881
+            [speed_upload] => 276
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.271611
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 178.132.201.51
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 35762
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 51337b63005f3774005f1ea600000001f0f107ca886793991177df3f3162730ea0bab9
+                )
+
+            [this_auth] => N
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014851.0403
+                    [finish] => 1669014851.0891
+                    [duration] => 0.048864841461182
+                    [processing] => 0.0016469955444336
+                    [date_start] => 2022-11-21T10:14:11+03:00
+                    [date_finish] => 2022-11-21T10:14:11+03:00
+                    [operating_reset_at] => 1669015451
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:14:11
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 401
+            [header_size] => 757
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.443285
+            [namelookup_time] => 0.00418
+            [connect_time] => 0.041322
+            [pretransfer_time] => 0.217734
+            [size_upload] => 75
+            [size_download] => 86
+            [speed_download] => 194
+            [speed_upload] => 169
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.443247
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 178.132.201.53
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 37744
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 67de7863005f3774005f1ea600000001f0f10771cc4a70f870718377ccbb03165714de
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014851.0403
+                    [finish] => 1669014851.0891
+                    [duration] => 0.048864841461182
+                    [processing] => 0.0016469955444336
+                    [date_start] => 2022-11-21T10:14:11+03:00
+                    [date_finish] => 2022-11-21T10:14:11+03:00
+                    [operating_reset_at] => 1669015451
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:14:12
+Array
+(
+    [url] => https://oauth.bitrix.info/oauth/token/
+    [info] => Array
+        (
+            [url] => https://oauth.bitrix.info/oauth/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 417
+            [request_size] => 390
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.147136
+            [namelookup_time] => 0.004112
+            [connect_time] => 0.034931
+            [pretransfer_time] => 0.100671
+            [size_upload] => 214
+            [size_download] => 449
+            [speed_download] => 3051
+            [speed_upload] => 1454
+            [download_content_length] => -1
+            [upload_content_length] => 214
+            [starttransfer_time] => 0.147126
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 18.201.1.1
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 34828
+        )
+
+    [params] => Array
+        (
+            [this_auth] => Y
+            [params] => Array
+                (
+                    [client_id] => local.63764b93110388.83138129
+                    [grant_type] => refresh_token
+                    [client_secret] => 7139dtMPtYV8dxi1ODZRqnm5EKLDxOqPMo81DygN9fFN22W4Fs
+                    [refresh_token] => 41b2a263005f3774005f1ea600000001f0f107bd2f4f4bd44d891c5fe4cc21410830a1
+                )
+
+        )
+
+    [result] => Array
+        (
+            [access_token] => 54337b63005f3774005f1ea600000001f0f107dccf26ec1e202ffbcb160ef1ce554ce8
+            [expires] => 1669018452
+            [expires_in] => 3600
+            [scope] => app
+            [domain] => oauth.bitrix.info
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [status] => L
+            [client_endpoint] => https://b24-pvegf4.bitrix24.ru/rest/
+            [member_id] => d2159694da27e9862a852be8a66c80bd
+            [user_id] => 1
+            [refresh_token] => 44b2a263005f3774005f1ea600000001f0f1070995143cb954bafcb7de213862cf14a2
+        )
+
+)
+
+****************************************************************
+10:14:13
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1213
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.439067
+            [namelookup_time] => 0.004186
+            [connect_time] => 0.052205
+            [pretransfer_time] => 0.14746
+            [size_upload] => 75
+            [size_download] => 511
+            [speed_download] => 1163
+            [speed_upload] => 170
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.43905
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 89.208.228.119
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 51056
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 54337b63005f3774005f1ea600000001f0f107dccf26ec1e202ffbcb160ef1ce554ce8
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014853.3048
+                    [finish] => 1669014853.4716
+                    [duration] => 0.16675901412964
+                    [processing] => 0.00097489356994629
+                    [date_start] => 2022-11-21T10:14:13+03:00
+                    [date_finish] => 2022-11-21T10:14:13+03:00
+                    [operating_reset_at] => 1669015453
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:14:14
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1213
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.282016
+            [namelookup_time] => 0.004122
+            [connect_time] => 0.046042
+            [pretransfer_time] => 0.089579
+            [size_upload] => 75
+            [size_download] => 510
+            [speed_download] => 1808
+            [speed_upload] => 265
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.282
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 89.208.228.119
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 51082
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 54337b63005f3774005f1ea600000001f0f107dccf26ec1e202ffbcb160ef1ce554ce8
+                )
+
+            [this_auth] => N
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014854.2206
+                    [finish] => 1669014854.251
+                    [duration] => 0.030444145202637
+                    [processing] => 0.0011258125305176
+                    [date_start] => 2022-11-21T10:14:14+03:00
+                    [date_finish] => 2022-11-21T10:14:14+03:00
+                    [operating_reset_at] => 1669015454
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:14:14
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 401
+            [header_size] => 757
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.297477
+            [namelookup_time] => 0.004202
+            [connect_time] => 0.041504
+            [pretransfer_time] => 0.205625
+            [size_upload] => 75
+            [size_download] => 86
+            [speed_download] => 289
+            [speed_upload] => 252
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.297454
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 46.235.53.67
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 48412
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 67de7863005f3774005f1ea600000001f0f10771cc4a70f870718377ccbb03165714de
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014854.2206
+                    [finish] => 1669014854.251
+                    [duration] => 0.030444145202637
+                    [processing] => 0.0011258125305176
+                    [date_start] => 2022-11-21T10:14:14+03:00
+                    [date_finish] => 2022-11-21T10:14:14+03:00
+                    [operating_reset_at] => 1669015454
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:14:18
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1211
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.339241
+            [namelookup_time] => 0.004183
+            [connect_time] => 0.051413
+            [pretransfer_time] => 0.223393
+            [size_upload] => 75
+            [size_download] => 511
+            [speed_download] => 1506
+            [speed_upload] => 221
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.339211
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 178.132.201.51
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 35926
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 5a337b63005f3774005f1ea600000001f0f107fb1737ec03326d46da03eea813d80233
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014858.7808
+                    [finish] => 1669014858.808
+                    [duration] => 0.027191877365112
+                    [processing] => 0.00080704689025879
+                    [date_start] => 2022-11-21T10:14:18+03:00
+                    [date_finish] => 2022-11-21T10:14:18+03:00
+                    [operating_reset_at] => 1669015458
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:14:29
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1211
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.313576
+            [namelookup_time] => 0.004274
+            [connect_time] => 0.040852
+            [pretransfer_time] => 0.212228
+            [size_upload] => 75
+            [size_download] => 511
+            [speed_download] => 1629
+            [speed_upload] => 239
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.313551
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 178.132.201.53
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 38120
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 5a337b63005f3774005f1ea600000001f0f107fb1737ec03326d46da03eea813d80233
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669014869.0647
+                    [finish] => 1669014869.0931
+                    [duration] => 0.028422117233276
+                    [processing] => 0.0009009838104248
+                    [date_start] => 2022-11-21T10:14:29+03:00
+                    [date_finish] => 2022-11-21T10:14:29+03:00
+                    [operating_reset_at] => 1669015469
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************
+10:14:42
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 401
+            [header_size] => 757
+            [request_size] => 221
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.40776
+            [namelookup_time] => 0.004246
+            [connect_time] => 0.0405
+            [pretransfer_time] => 0.217064
+            [size_upload] => 35
+            [size_download] => 82
+            [speed_download] => 201
+            [speed_upload] => 85
+            [download_content_length] => -1
+            [upload_content_length] => 35
+            [starttransfer_time] => 0.407713
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 178.132.201.50
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 37898
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 6fwImVPPPuWXGld1z70c9DDCtn4RqO
+                )
+
+        )
+
+    [result] => Array
+        (
+            [error] => invalid_token
+            [error_description] => Unable to get application by token
+            [error_information] => invalid token, need reinstall application
+        )
+
+)
+
+****************************************************************
+10:31:55
+Array
+(
+    [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+    [info] => Array
+        (
+            [url] => https://b24-pvegf4.bitrix24.ru/rest/app.info.json
+            [content_type] => application/json; charset=utf-8
+            [http_code] => 200
+            [header_size] => 1210
+            [request_size] => 261
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.34241
+            [namelookup_time] => 0.012361
+            [connect_time] => 0.049966
+            [pretransfer_time] => 0.226164
+            [size_upload] => 75
+            [size_download] => 511
+            [speed_download] => 1492
+            [speed_upload] => 219
+            [download_content_length] => -1
+            [upload_content_length] => 75
+            [starttransfer_time] => 0.342387
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 178.132.201.51
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 38036
+        )
+
+    [params] => Array
+        (
+            [method] => app.info
+            [params] => Array
+                (
+                    [auth] => 79377b63005f3774005f1ea600000001f0f107e2c0c8be61f6013076c48c14180a55a1
+                )
+
+        )
+
+    [result] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 9
+                    [CODE] => local.63764b93110388.83138129
+                    [VERSION] => 1
+                    [STATUS] => L
+                    [INSTALLED] => 1
+                    [PAYMENT_EXPIRED] => N
+                    [DAYS] => 
+                    [LANGUAGE_ID] => ru
+                    [LICENSE] => ru_demo
+                    [LICENSE_PREVIOUS] => ru_project
+                    [LICENSE_TYPE] => demo
+                    [LICENSE_FAMILY] => demo
+                )
+
+            [time] => Array
+                (
+                    [start] => 1669015915.8497
+                    [finish] => 1669015915.8874
+                    [duration] => 0.03771185874939
+                    [processing] => 0.0009620189666748
+                    [date_start] => 2022-11-21T10:31:55+03:00
+                    [date_finish] => 2022-11-21T10:31:55+03:00
+                    [operating_reset_at] => 1669016515
+                    [operating] => 0
+                )
+
+        )
+
+)
+
+****************************************************************

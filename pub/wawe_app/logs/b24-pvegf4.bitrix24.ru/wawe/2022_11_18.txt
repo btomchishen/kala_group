@@ -1,0 +1,600 @@
+21:35:43
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 496
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.705717
+            [namelookup_time] => 0.060702
+            [connect_time] => 0.066395
+            [pretransfer_time] => 0.170726
+            [size_upload] => 330
+            [size_download] => 397
+            [speed_download] => 562
+            [speed_upload] => 467
+            [download_content_length] => 397
+            [upload_content_length] => 330
+            [starttransfer_time] => 0.705689
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 53500
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [code] => pU3XGc8o09kzVQtx3Yo9A13HSnfwAH
+            [grant_type] => authorization_code
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "uExxoBIhyQa23vnO7yQ223bsf6Tf4K", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "Ux3RKVeMprt8WSmOAAgLbcsaj8q57E", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+21:47:09
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 496
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.375236
+            [namelookup_time] => 0.012397
+            [connect_time] => 0.018291
+            [pretransfer_time] => 0.125444
+            [size_upload] => 330
+            [size_download] => 397
+            [speed_download] => 1058
+            [speed_upload] => 879
+            [download_content_length] => 397
+            [upload_content_length] => 330
+            [starttransfer_time] => 0.375207
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 39782
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [code] => gZpf1AC0Zax8MsPEtdwb4gbQWo2wa0
+            [grant_type] => authorization_code
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "rTWYUXkjrlLciEZ1w0Z5d002je9cmR", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "P746QYmcuIrHF3svdqGhxcp0oVL6ty", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+21:49:00
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 496
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.593772
+            [namelookup_time] => 0.028573
+            [connect_time] => 0.034849
+            [pretransfer_time] => 0.140593
+            [size_upload] => 330
+            [size_download] => 397
+            [speed_download] => 668
+            [speed_upload] => 555
+            [download_content_length] => 397
+            [upload_content_length] => 330
+            [starttransfer_time] => 0.593743
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 39858
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [code] => 0ILiRvkopCvNVlRVDW3x62y66RWZto
+            [grant_type] => authorization_code
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "vwSbBxutHMrvyrk16i4GV3ajbvNZEm", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "es9JfWqUvofJePfTwLTWeDnAEE0XWr", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+21:52:14
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 496
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.587193
+            [namelookup_time] => 0.012378
+            [connect_time] => 0.01799
+            [pretransfer_time] => 0.134106
+            [size_upload] => 330
+            [size_download] => 397
+            [speed_download] => 676
+            [speed_upload] => 561
+            [download_content_length] => 397
+            [upload_content_length] => 330
+            [starttransfer_time] => 0.587165
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 55484
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [code] => P7sy5NAL7zUPBgVxTmyLeKJuTQ6TOT
+            [grant_type] => authorization_code
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "IK40xmp8cA1Cv65keilDURxbaOPXJA", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "ZZB6s3ef2DTQEO72dodrSHiO2iRLwL", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+21:53:47
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 496
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.621251
+            [namelookup_time] => 0.028572
+            [connect_time] => 0.034117
+            [pretransfer_time] => 0.139874
+            [size_upload] => 330
+            [size_download] => 397
+            [speed_download] => 639
+            [speed_upload] => 531
+            [download_content_length] => 397
+            [upload_content_length] => 330
+            [starttransfer_time] => 0.621225
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 55606
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [code] => aMtc6X3ifkRkCxCGlxNCtBht62LJIM
+            [grant_type] => authorization_code
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "lqJf3vlq6C1znP7TqZVJuVHgQaajPo", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "Ne192MsSTmmZKVFQgq48GoZJWiYy5o", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+22:12:26
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 500
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.53148
+            [namelookup_time] => 0.028475
+            [connect_time] => 0.034029
+            [pretransfer_time] => 0.058747
+            [size_upload] => 334
+            [size_download] => 397
+            [speed_download] => 746
+            [speed_upload] => 628
+            [download_content_length] => 397
+            [upload_content_length] => 334
+            [starttransfer_time] => 0.531463
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 50956
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [refresh_token] => Ne192MsSTmmZKVFQgq48GoZJWiYy5o
+            [grant_type] => refresh_token
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "3bPtoF1xxR2lH2e4Tn4wS67ZgstqrZ", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "Ne192MsSTmmZKVFQgq48GoZJWiYy5o", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+22:13:12
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 500
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.546674
+            [namelookup_time] => 0.012328
+            [connect_time] => 0.018098
+            [pretransfer_time] => 0.040428
+            [size_upload] => 334
+            [size_download] => 397
+            [speed_download] => 726
+            [speed_upload] => 610
+            [download_content_length] => 397
+            [upload_content_length] => 334
+            [starttransfer_time] => 0.546656
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 51068
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [refresh_token] => Ne192MsSTmmZKVFQgq48GoZJWiYy5o
+            [grant_type] => refresh_token
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "oMb1YQNc7r5iYXjROZ2NQFxnapEFWx", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "Ne192MsSTmmZKVFQgq48GoZJWiYy5o", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+22:14:01
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 500
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.217865
+            [namelookup_time] => 0.004177
+            [connect_time] => 0.009728
+            [pretransfer_time] => 0.031721
+            [size_upload] => 334
+            [size_download] => 397
+            [speed_download] => 1822
+            [speed_upload] => 1533
+            [download_content_length] => 397
+            [upload_content_length] => 334
+            [starttransfer_time] => 0.217852
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 51448
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [refresh_token] => Ne192MsSTmmZKVFQgq48GoZJWiYy5o
+            [grant_type] => refresh_token
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "7DmHNJg21Dw0lYK8TRTdw6Htf15NL0", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "Ne192MsSTmmZKVFQgq48GoZJWiYy5o", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+22:14:49
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 500
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.507837
+            [namelookup_time] => 0.012316
+            [connect_time] => 0.017801
+            [pretransfer_time] => 0.04426
+            [size_upload] => 334
+            [size_download] => 397
+            [speed_download] => 781
+            [speed_upload] => 657
+            [download_content_length] => 397
+            [upload_content_length] => 334
+            [starttransfer_time] => 0.50782
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 38410
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [refresh_token] => Ne192MsSTmmZKVFQgq48GoZJWiYy5o
+            [grant_type] => refresh_token
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "HwGDwuTGziJxO6T3pTkPJRd3FSesIS", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "Ne192MsSTmmZKVFQgq48GoZJWiYy5o", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+22:15:27
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 500
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.524715
+            [namelookup_time] => 0.004176
+            [connect_time] => 0.009705
+            [pretransfer_time] => 0.030673
+            [size_upload] => 334
+            [size_download] => 397
+            [speed_download] => 756
+            [speed_upload] => 636
+            [download_content_length] => 397
+            [upload_content_length] => 334
+            [starttransfer_time] => 0.524701
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 38822
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [refresh_token] => Ne192MsSTmmZKVFQgq48GoZJWiYy5o
+            [grant_type] => refresh_token
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "jfNQg7WL3Y1V7TUU8Ib4HQbXqbCEDU", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "Ne192MsSTmmZKVFQgq48GoZJWiYy5o", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+22:16:31
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 500
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.563134
+            [namelookup_time] => 0.00418
+            [connect_time] => 0.009713
+            [pretransfer_time] => 0.040025
+            [size_upload] => 334
+            [size_download] => 397
+            [speed_download] => 704
+            [speed_upload] => 593
+            [download_content_length] => 397
+            [upload_content_length] => 334
+            [starttransfer_time] => 0.563117
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.99.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 39190
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [refresh_token] => Ne192MsSTmmZKVFQgq48GoZJWiYy5o
+            [grant_type] => refresh_token
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "kyUy0pCJeOTvnSb1z1P1TzUrXl4KGL", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "Ne192MsSTmmZKVFQgq48GoZJWiYy5o", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************
+22:16:49
+Array
+(
+    [url] => https://api.waveapps.com/oauth2/token/
+    [info] => Array
+        (
+            [url] => https://api.waveapps.com/oauth2/token/
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 839
+            [request_size] => 500
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.511404
+            [namelookup_time] => 0.012349
+            [connect_time] => 0.01803
+            [pretransfer_time] => 0.052689
+            [size_upload] => 334
+            [size_download] => 397
+            [speed_download] => 776
+            [speed_upload] => 653
+            [download_content_length] => 397
+            [upload_content_length] => 334
+            [starttransfer_time] => 0.511388
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 104.16.100.12
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 138.201.137.164
+            [local_port] => 52754
+        )
+
+    [params] => Array
+        (
+            [client_id] => jkiZ6gGQP11YQf7dFfsfCaHXddTmuhkfIalRbBwV
+            [client_secret] => Po3N3aNIZ9XpdXwn2MyPJyk6pJsNfAUlRCLK0fCdRMT4RdJDhYBTTHBNF1V7j86KcLOpYKlx2kKBtpfS3Wo4pFn4AphSrfcX1NYRV6LNdlBJcNKTcIeNOdYOfZ1CMOzi
+            [refresh_token] => Ne192MsSTmmZKVFQgq48GoZJWiYy5o
+            [grant_type] => refresh_token
+            [redirect_uri] => https://mod24.devplace.info/pub/wawe_app/wawe
+        )
+
+    [result] => {"access_token": "8m01LFEOibhNL8FaZGtHCWxqXV7g4T", "expires_in": 36000, "token_type": "Bearer", "scope": "invoice:read basic account:* customer:* invoice:write user:* vendor:* product:* business:*", "refresh_token": "Ne192MsSTmmZKVFQgq48GoZJWiYy5o", "userId": "VXNlcjo3YjA2ZTUxNS1iYTVlLTQxMDItYTAzNC02Nzg4YjExZWI2YmM=", "businessId": "QnVzaW5lc3M6NGQ2OTkwZGEtMjcyZC00N2MzLWE5ZWUtOTk1ZmVkNDA5MWUy"}
+)
+
+****************************************************************

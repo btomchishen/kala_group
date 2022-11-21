@@ -1,0 +1,19 @@
+/** install **/
+.col-install {
+    display: flex;
+    height: 300px;
+}
+.col-install p {
+    margin: auto;
+}
+.col-install .install-title {
+    font-size: 20px;
+}
+/** install **/
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
