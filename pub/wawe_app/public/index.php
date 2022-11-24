@@ -24,6 +24,7 @@ $router->add('uninstall', ['controller' => 'Uninstall', 'action' => 'index']);
 $router->add('app', ['controller' => 'B24Frame', 'action' => 'index']);
 $router->add('wawe', ['controller' => 'WaweConnect', 'action' => 'index']);
 $router->add('waweDisconect', ['controller' => 'WaweDisconect', 'action' => 'index']);
+$router->add('export', ['controller' => 'ExportData', 'action' => 'index']);
 $router->add('{controller}/{action}');
-    
+
 $router->dispatch($_SERVER['QUERY_STRING']);

@@ -31,4 +31,34 @@ create table if not exists wawe_list_portals
     wawe_businessId varchar(255) null default '',
     wawe_state varchar(50) null default '',
     PRIMARY KEY wawe_portals_primary_id (ID)
-)
+);
+
+drop table if exists wave_contacts;
+
+create table if not exists wave_contacts
+(
+    id int(11) not null auto_increment,
+    contact_bitrix_id int(11) null unique default 0,
+    customer_wave_id varchar(255) null unique default '',
+    PRIMARY KEY wave_contacts_primary_id (id)
+);
+
+drop table if exists wave_products;
+
+create table if not exists wave_products
+(
+    id int(11) not null auto_increment,
+    product_bitrix_id int(11) null unique default 0,
+    product_wave_id varchar(255) null unique default '',
+    PRIMARY KEY wave_products_primary_id (id)
+);
+
+drop table if exists wave_invoices;
+
+create table if not exists wave_invoices
+(
+    id int(11) not null auto_increment,
+    invoice_bitrix_id int(11) null unique default 0,
+    invoice_wave_id varchar(255) null unique default '',
+    PRIMARY KEY wave_invoices_primary_id (id)
+);

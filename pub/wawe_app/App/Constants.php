@@ -7,8 +7,8 @@ define('LIST_LANGS', array('en', 'ru')); //List languages
 define('SITE_DOMAIN', 'https://'.$_SERVER['HTTP_HOST']);
 define('LOG_CLEAR_DAY', 7); //days save logs
 
-define('C_REST_CLIENT_ID'. ''); //marketplace CLIENT_ID
-define('C_REST_CLIENT_SECRET'. ''); //marketplace CLIENT_SECRET
+define('C_REST_CLIENT_ID', 'local.63764b93110388.83138129'); //marketplace CLIENT_ID
+define('C_REST_CLIENT_SECRET', '7139dtMPtYV8dxi1ODZRqnm5EKLDxOqPMo81DygN9fFN22W4Fs'); //marketplace CLIENT_SECRET
 
 
 define('WAWE_REDIRECT_URL', SITE_DOMAIN.RELATIVE_PATH.'/wawe');
